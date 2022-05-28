@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Medium Clone**
 
-- 🌱 I’m currently learning **Nodejs and Mongodb**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://jaydeeps-portfolio.netlify.app/](https://jaydeeps-portfolio.netlify.app/)
 
